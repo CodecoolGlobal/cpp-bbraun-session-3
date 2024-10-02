@@ -20,6 +20,7 @@ public:
         if (pos != string::npos) {
             unsigned long long start = pos > contextLength ? pos - contextLength : 0;
             unsigned long long end = pos + word.length() + contextLength;
+            end = end < content.length() ? end : content.length();
             return new string("..." + content.substr(start, end - start) + "..."); 
         }
         return nullptr;
