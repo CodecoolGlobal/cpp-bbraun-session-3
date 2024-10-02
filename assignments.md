@@ -2,8 +2,8 @@
 
 - reference.cpp: `Document` class `findAndReplace` member function
 - reference.cpp: `Document` class `findContext` member function
-- reference.cpp: `Document` class `getContent` member function
-Geometry: https://github.com/CodecoolGlobal/cpp-bbraun-2-<YOUR GITHUB NAME>
+- reference.cpp: `Document` class `getContent` member function <br>
+Geometry: https://github.com/CodecoolGlobal/cpp-bbraun-2-<YOUR GITHUB NAME> <br>
 Car-race: https://github.com/CodecoolGlobal/cpp-bbraun-2-car-race-<YOUR GITHUB NAME>
 - Car-race: main.cpp `main` function: (const variable)
 - Car-race: `Weather` class `isRaining` member function
